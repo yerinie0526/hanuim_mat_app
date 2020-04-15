@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //깃 허브 실험 채연이에오
+
+        //채연아...잘지냈니 그동안...(별)
     }
 }
