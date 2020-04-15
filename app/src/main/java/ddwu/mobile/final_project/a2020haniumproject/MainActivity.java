@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //깃 허브 실험
+        //깃 허브 실험 채연이에오
     }
 }
